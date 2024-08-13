@@ -1,0 +1,10 @@
+.Main {
+    background-image: linear-gradient(to right,black, red, yellow);
+    background-color: #ed0b0b;
+    text-align: center;
+    margin-top: 50px;
+    padding: 50px;
+    border: 2px solid black;
+    border-radius: 70px;
+    box-shadow: 10px 10px 100px rgb(200, 12, 44);
+  }
